@@ -1,4 +1,0 @@
-﻿Penser à :
-// Sur les sand box
-* créer une branche
-* installer npm 
